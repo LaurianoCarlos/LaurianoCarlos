@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lauriano+Carlos;I'm+23+years+old;I+from+Brasil,+SP+-+São+Paulo;I+study+systems+development+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Lauriano+Carlos;Eu+tenho+23+anos+de+idade;Sou+de+São+Paulo+-+SP;Sou+estudante+de;Análise+e+Desenvolvimento+de+Sistemas;+no+Centro+Universitário+Senac;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
-#### You can find me at... 
+#### Você pode me encontrar em...
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauriano-carlos-6b6165240/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lauriano.carlos/)
 
@@ -11,7 +11,7 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurianocarlos&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## My everyday technologies
+## Minhas tecnologias cotidianas
 
 <div style="display: inline_block">
 <img align="center" alt="wordpress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
@@ -27,12 +27,12 @@
 </div>
 </br>
 
-I'm still a beginner in programming, but I'm learning something new every day. Even when I face challenges, I feel like I'm progressing and becoming a better programmer. I look forward to seeing where this journey takes me.
+Ainda sou iniciante em programação, mas aprendo algo novo todos os dias. Mesmo quando enfrento desafios, sinto que estou progredindo e me tornando um programador melhor. Estou ansioso para ver aonde essa jornada me levará.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=laurianocarlos&bg_color=d1ffda&color=9e4c61&line=4c999e&point=3e4140&area=true&hide_border=true)](https://github.com/LaurianoCarlos/github-readme-activity-graph)
+
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LaurianoCarlos}/count.svg" /></p> 
 <br></div>
   
