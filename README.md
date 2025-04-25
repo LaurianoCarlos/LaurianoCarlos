@@ -27,10 +27,6 @@
 </div>
 </br>
 
-Ainda sou iniciante em programação, mas aprendo algo novo todos os dias. Mesmo quando enfrento desafios, sinto que estou progredindo e me tornando um programador melhor. Estou ansioso para ver aonde essa jornada me levará.
-
-
-
 <div align="center">
 <br><p align="centre"><b>Contagem de visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LaurianoCarlos}/count.svg" /></p> 
